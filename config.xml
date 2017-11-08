@@ -37,7 +37,6 @@
 
 <plugin name="com.guinatal.refreshgallery" spec="https://github.com/guinatal/refreshgallery.git"/> <!-- If available via Cordova registry; consider changing to an NPM reference. -->
 <plugin name="cordova-plugin-app-event" spec="1.2.0"/>
-<plugin name="de.appplant.cordova.plugin.local-notification" spec="https://github.com/katzer/cordova-plugin-local-notifications.git"/> <!-- If available via Cordova registry; consider changing to an NPM reference. -->
 <plugin name="cordova-plugin-whitelist" spec="1.2.2"/>
 <platform  name="ios">
     <!-- below requires the splash screen plugin -->
