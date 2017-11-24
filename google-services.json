@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "508074429531",
-    "firebase_url": "https://cline-4fe5c.firebaseio.com",
-    "project_id": "cline-4fe5c",
-    "storage_bucket": "cline-4fe5c.appspot.com"
+    "project_number": "389511063169",
+    "firebase_url": "https://basudewa-8b5da.firebaseio.com",
+    "project_id": "basudewa-8b5da",
+    "storage_bucket": "basudewa-8b5da.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:508074429531:android:972ba1b8974c1da0",
+        "mobilesdk_app_id": "1:389511063169:android:cd7f3a21b4759be4",
         "android_client_info": {
-          "package_name": "tokojs.com.app.cline"
+          "package_name": "tokojs.com.app.basudewa"
         }
       },
       "oauth_client": [
         {
-          "client_id": "508074429531-6dn1lfogct9v5njdkmqv0umb8chv7tu7.apps.googleusercontent.com",
+          "client_id": "389511063169-ifp19o184fopuf5m1t6itu7jp3ie57a4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCybD0JYFCHorxZ2FlVWZfvPCvy1XvrFfU"
+          "current_key": "AIzaSyBM9a-muef0FF4QarO2l7AYBjlrcuK5fTU"
         }
       ],
       "services": {
